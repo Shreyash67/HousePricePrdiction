@@ -1,0 +1,6 @@
+setup.py
+HousePricePrediction.egg-info/PKG-INFO
+HousePricePrediction.egg-info/SOURCES.txt
+HousePricePrediction.egg-info/dependency_links.txt
+HousePricePrediction.egg-info/requires.txt
+HousePricePrediction.egg-info/top_level.txt

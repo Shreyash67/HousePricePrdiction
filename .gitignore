@@ -1,0 +1,18 @@
+# Ignore Python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore venv
+env/
+
+# # Ignore editor folders
+# .vscode/
+
+# # Ignore data files
+# *.csv
+# *.log
+# *.db
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
