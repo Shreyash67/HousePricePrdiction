@@ -6,13 +6,16 @@ __pycache__/
 # Ignore venv
 env/
 
-# # Ignore editor folders
-# .vscode/
+# Ignore editor folders
+.vscode/
 
-# # Ignore data files
-# *.csv
-# *.log
-# *.db
+# Ignore data files
+*.csv
+*.log
+*.db
 
 # Ignore notebook checkpoints
 .ipynb_checkpoints/
+
+env/
+HousePricePrediction.egg-info/
